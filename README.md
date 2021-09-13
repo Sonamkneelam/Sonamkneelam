@@ -27,15 +27,18 @@
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonamkneelam&show_icons=true&locale=en&layout=compact" alt="sonamkneelam" /></p>
  -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonamkneelam&show_icons=true&locale=en" alt="sonamkneelam" /></p> -->
+<br>
 <div>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonamkneelam&langs_count=8">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonamkneelam&langs_count=8" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonamkneelam&layout=compact&bg_color=92EFED&title_color=2874A6&border_color=FBFCFC
+">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sonamkneelam&layout=compact&bg_color=1A1B27&title_color=FDFEFE&text_color=FDFEFE&border_color=FDFEFE" />
 </a>
 </div>
+
 <br>
 <div margin='10px'>
-<a href="https://github-readme-stats.vercel.app/api?username=Sonamkneelam&show_icons=true&theme=radical">
-  <img align="center" display="block"  src="https://github-readme-stats.vercel.app/api?username=Sonamkneelam&show_icons=true&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=Sonamkneelam&show_icons=true&theme=tokyonight">
+  <img align="center" display="block"  src="https://github-readme-stats.vercel.app/api?username=Sonamkneelam&show_icons=true&theme=tokyonight" />
 </a>
   </div>
 <!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
